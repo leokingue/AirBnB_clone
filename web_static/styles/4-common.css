@@ -14,3 +14,13 @@ body {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
 }
+/***********************************************************/
+/*             CONTAINER                                   */
+/***********************************************************/
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 1000px;
+    margin: 0 auto;
+}

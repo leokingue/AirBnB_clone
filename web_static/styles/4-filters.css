@@ -1,15 +1,4 @@
 
-/***********************************************************/
-/*             CONTAINER                                   */
-/***********************************************************/
-.container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    max-width: 1000px;
-    margin: 0 auto;
-}
-
 div.container .filters {
     display: flex;
     background-color: white;
